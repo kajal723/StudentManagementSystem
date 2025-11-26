@@ -47,4 +47,4 @@ Run StudentGUI.java
 
 Author
 
-Kajal Sah
+Kajal kumari
