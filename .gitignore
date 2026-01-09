@@ -1,0 +1,4 @@
+tomcat-clean/
+WEB-INF/classes/
+*.class
+*.jar
